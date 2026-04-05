@@ -1,7 +1,5 @@
 ## Geonwoo Kim | 김건우
 
----
-
 👨‍💻 Studying AI Engineering @ Inha University <br> 
 🤖 Undergraduate Researcher at [**RILS Lab**](https://rils.inha.ac.kr/)
 
@@ -19,12 +17,6 @@ I believe in the power of turning research papers into robust, real-world system
 
 ---
 
-## 📮 Contact
-
-<a href="mailto:gundol21@inha.edu"><img src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=minutemailer&logoColor=white"/></a>
-
----
-
 ## 🎓 Education
 
 * **2021.03 ~ Present** | B.S. in Department of Artificial Intelligence Engineering, **Inha University**
@@ -34,7 +26,7 @@ I believe in the power of turning research papers into robust, real-world system
 ## 🚀 Experience & Projects
 
 | Date | Topic | Program |
-| :--- | :--- | :--- | :--- |
+| :--- | :--- | :--- |
 | 2026.02 ~ Present | **AI 균열정밀진단시스템 구축 (라벨링 및 모델 개발)** | 연구 과제 |
 | 2025.07 ~ Present | **RL agent 기반 Explainable AI 코칭시스템 개발** | 캡스톤 디자인 |
 | 2025.09 ~ 2026.02 | **차선 중앙 검출 및 카메라 기반 costmap 생성 알고리즘 개발** | A.I.M 동계 내부대회 |
