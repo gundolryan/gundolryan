@@ -3,8 +3,8 @@
 
 ---
 
-👨‍💻 Studying AI Engineering **Inha University** 
-🤖 Undergraduate Researcher at [**RILS(Robot Intelligence Learning & System) Lab**](https://rils.inha.ac.kr/)
+👨‍💻 Studying AI Engineering @ Inha University <br> 
+🤖 Undergraduate Researcher at [**RILS Lab**](https://rils.inha.ac.kr/)
 
 ---
 
