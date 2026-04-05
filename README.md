@@ -2,8 +2,7 @@
 # Geonwoo Kim | 김건우
 
 🎱 Studying AI Engineering @ Inha University
-🤖 Undergraduate Researcher at **RILS Lab**
-
+🤖 Undergraduate Researcher at [**RILS Lab**](https://rils.inha.ac.kr/)
 ---
 
 ## 👋 About Me
