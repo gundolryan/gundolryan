@@ -27,11 +27,11 @@ I believe in the power of turning research papers into robust, real-world system
 
 | Date | Topic | Program |
 | :--- | :--- | :--- |
-| 2026.02 ~ Present | **AI 균열정밀진단시스템 구축 (라벨링 및 모델 개발)** | 연구 과제 |
+| 2026.02 ~ Present | **AI 균열정밀진단시스템 구축 (라벨링 및 모델 개발)** | 연구과제 참여 |
 | 2025.07 ~ Present | **RL agent 기반 Explainable AI 코칭시스템 개발** | 캡스톤 디자인 |
 | 2025.09 ~ 2026.02 | **차선 중앙 검출 및 카메라 기반 costmap 생성 알고리즘 개발** | A.I.M 동계 내부대회 |
-| 2025.04 ~ 2025.09 | **AGI를 활용한 오토라벨링 프로그램 개발** | 산학협력연구과제 |
-| 2025.09 ~ 2025.11 | **인하 포털 시설물 예약 시스템 개선** | 인지공이 | 2025 NEXT CAMPUS CHALLENGE |
+| 2025.04 ~ 2025.09 | **AGI를 활용한 오토라벨링 프로그램 개발** | 산학협력연구과제 참여|
+| 2025.09 ~ 2025.11 | **인하대학교 포털 시설물 예약 시스템 개선** | 2025 NEXT CAMPUS CHALLENGE |
 
 ---
 
