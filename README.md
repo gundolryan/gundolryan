@@ -1,5 +1,4 @@
-## Hi there 👋
-# Geonwoo Kim | 김건우
+## Geonwoo Kim | 김건우
 
 ---
 
@@ -22,8 +21,7 @@ I believe in the power of turning research papers into robust, real-world system
 
 ## 📮 Contact
 
-<a href="mailto:건우님_이메일@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="본인_인스타그램_혹은_링크드인_링크"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:gundol21@inha.edu"><img src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=minutemailer&logoColor=white"/></a>
 
 ---
 
@@ -33,25 +31,24 @@ I believe in the power of turning research papers into robust, real-world system
 
 ---
 
-## 💼 Experience
+## 🚀 Experience & Projects
 
-* **2025.06 ~ Present** | Undergraduate Researcher
-  * **Robot Intelligence Learning & Systems Lab (RILS Lab)**
-  * Focus: End-to-End Autonomous Driving & Embodied AI
+| Date | Topic | Program |
+| :--- | :--- | :--- | :--- |
+| 2026.02 ~ Present | **AI 균열정밀진단시스템 구축 (라벨링 및 모델 개발)** | 연구 과제 |
+| 2025.07 ~ Present | **RL agent 기반 Explainable AI 코칭시스템 개발** | 캡스톤 디자인 |
+| 2025.09 ~ 2026.02 | **차선 중앙 검출 및 카메라 기반 costmap 생성 알고리즘 개발** | A.I.M 동계 내부대회 |
+| 2025.04 ~ 2025.09 | **AGI를 활용한 오토라벨링 프로그램 개발** | 산학협력연구과제 |
+| 2025.09 ~ 2025.11 | **인하 포털 시설물 예약 시스템 개선** | 인지공이 | 2025 NEXT CAMPUS CHALLENGE |
 
 ---
 
-## 🚀 Key Projects
-
-### 🏎️ SparseDrive with MoE Integration
-* **Topic:** Enhancing the SparseDrive model by adding a Mixture of Experts (MoE) module.
-* **Goal:** Improving perception performance and computational efficiency for autonomous driving.
-* **Tech:** PyTorch, SparseDrive, RTX 5090 Optimization
-
-### 🏗️ Advanced Crack Segmentation
-* **Topic:** Precision crack detection using Transformer-based models.
-* **Models:** Researching Mask2Former and SCSegamba for robust structural analysis.
-* **Focus:** Data labeling efficiency and high-accuracy segmentation.
+## 🏆 Activities & Leadership
+* **2025.07 ~ Present** | 인하대학교 로봇 지능 학습 및 시스템 연구실 학부연구생(End-to-end Autonomous Driving Part)
+* **2025.09 ~ 2025.12** | 인하대학교 SINSA 인공지능학회 '핸즈온 머신러닝' 스터디장
+* **2025.04 ~ 2025.12** | 인하대학교 인공지능공학과 3대 부학생회장
+* **2022.01 ~ 2022.12** | 인하대학교 중앙 컴퓨터 동아리 INCOM 42기 회장
+* **2022.09 ~ 2022.12** | 인하대학교 인공지능공학과 2학년 급대표
 
 ---
 
