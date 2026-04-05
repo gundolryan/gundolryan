@@ -3,7 +3,9 @@
 
 ---
 
-👨‍💻 Studying AI Engineering @ Inha University 🤖 Undergraduate Researcher at <a href="https://rils.inha.ac.kr/"><img src="https://img.shields.io/badge/RILS%20Lab-Homepage-blue?style=flat-square&logo=gitbook&logoColor=white" style="vertical-align: middle;"/></a>
+👨‍💻 Studying AI Engineering @ Inha University 
+
+🤖 Undergraduate Researcher at [**RILS Lab**](https://rils.inha.ac.kr/)
 
 ---
 
