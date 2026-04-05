@@ -35,8 +35,7 @@ I believe in the power of turning research papers into robust, real-world system
 
 * **2025.06 ~ Present** | Undergraduate Researcher
   * **Robot Intelligence Learning & Systems Lab (RILS Lab)**
-  * Advisor: Prof. Woojin Ahn
-  * Focus: Autonomous Driving & Embodied AI
+  * Focus: End-to-End Autonomous Driving & Embodied AI
 
 ---
 
