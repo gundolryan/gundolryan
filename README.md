@@ -29,7 +29,7 @@ I believe in the power of turning research papers into robust, real-world system
 | :--- | :--- | :--- |
 | 2026.02 ~ Present | **AI 균열정밀진단시스템 구축 (라벨링 및 모델 개발)** | 연구과제 참여 |
 | 2025.07 ~ Present | **RL agent 기반 Explainable AI 코칭시스템 개발** | 캡스톤 디자인 |
-| 2025.09 ~ 2026.02 | **Morai 시뮬 카메라 기반 차선 중앙 검출 및 costmap 생성 알고리즘 개발** | A.I.M 동계 내부대회 |
+| 2025.09 ~ 2026.02 | **카메라 기반 차선 중앙 검출 및 costmap 생성 알고리즘 개발(MORAI)** | A.I.M 동계 내부대회 |
 | 2025.04 ~ 2025.09 | **AGI를 활용한 오토라벨링 프로그램 개발** | 산학협력연구과제 참여|
 | 2025.09 ~ 2025.11 | **인하대학교 포털 시설물 예약 통합 관리 시스템** | 2025 INHA NEXT CAMPUS CHALLENGE |
 
